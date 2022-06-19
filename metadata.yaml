@@ -1,0 +1,32 @@
+_repo: The-Mexican-War-diary-of-George-B-McClellan_68308
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McClellan, George B.
+    gutenberg_agent_id: '54710'
+    url: http://www.gutenberg.org/2009/agents/54710
+  editor:
+    agent_name: Myers, William Starr
+    birthdate: 1877
+    deathdate: 1956
+    gutenberg_agent_id: '5189'
+    url: http://www.gutenberg.org/2009/agents/5189
+    wikipedia: https://en.wikipedia.org/wiki/William_Starr_Myers
+description: ''
+gutenberg_issued: '2022-06-14'
+identifiers:
+  gutenberg: '68308'
+language: en
+pgterms:marc905: 20220212162339mcclellan
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Princeton University Press,1917.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Mexican War diary of George B. McClellan
+url: http://www.gutenberg.org/ebooks/68308
